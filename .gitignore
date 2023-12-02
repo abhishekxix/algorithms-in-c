@@ -1,0 +1,7 @@
+*
+!*/
+*dSYM/
+!**/*.c
+!**/*.h
+!**/*.gitignore
+!**/.vscode/*.json
